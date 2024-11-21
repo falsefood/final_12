@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: falsefood/parcel-tracker:${{ github.ref_name }}
+          tags: poolboy8/parcel-tracker:${{ github.ref_name }}
